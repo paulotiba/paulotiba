@@ -21,6 +21,6 @@ Após esse período de adaptação comecei a trabalhar com RH departamento pesso
 Contratando brasileiros para indústria e atuando como intérprete para diversas situações, hospitais, bancos, prefeituras. 
 
 Me especializei no conceito dos 5S para preparar os brasileiros contratados para trabalhar em grandes montadoras com Toyota, Honda, Mazda, Suzuki e Mitsubishi.
-![image](https://user-images.githubusercontent.com/16795064/134433324-133f7466-9665-4b04-8695-d63c57cb56c7.png)
+
  
 
