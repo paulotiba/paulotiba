@@ -12,3 +12,15 @@ Here are some ideas to get you started:
 </div>
 
 
+#Um pouco Sobre Min: 
+###Profissional:  de 1990 até 1998 trabalhei em vários trabalhos diferenciados desde atende de lanchonete a vendedor externo e interno, adquiri muita experiência de vida e de como viver em grupo dentro trabalho.
+
+A partir de 1999 começo minha grande aventura pelo oriente, fui embora do pais para a cidade de kameyama no japão , para trabalhar como operário fiquei uns cinco anos trabalhando na indústria japonesa e absorvendo todo conteúdo disponível sobre cultura, comportamento, idioma. 
+
+Após esse período de adaptação comecei a trabalhar com RH departamento pessoal
+Contratando brasileiros para indústria e atuando como intérprete para diversas situações, hospitais, bancos, prefeituras. 
+
+Me especializei no conceito dos 5S para preparar os brasileiros contratados para trabalhar em grandes montadoras com Toyota, Honda, Mazda, Suzuki e Mitsubishi.
+![image](https://user-images.githubusercontent.com/16795064/134433324-133f7466-9665-4b04-8695-d63c57cb56c7.png)
+ 
+
