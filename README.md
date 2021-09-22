@@ -22,6 +22,20 @@ Contratando brasileiros para indústria e atuando como intérprete para diversas
 
 Me especializei no conceito dos 5S para preparar os brasileiros contratados para trabalhar em grandes montadoras com Toyota, Honda, Mazda, Suzuki e Mitsubishi.
     </h3>
+    
+    <hr/>
+    
+    <h1 style="color: coral;">  Tecnologia & Desenvolvimento Web.</h1>
+
+<h2 style="color: darkred;">
+HTML, CSS, JS, PHP 
+</h2>
+
+<p style="color: darkgoldenrod;">
+Estou pronto para começar trabalhar com essas tecnologias. <br>
+fiz alguns trabalhos para amigos e estudei muito e agora desejo fazer trabalhos para pequenos negocios para 
+incentivar todos estarem ON. 
+</p>
 
  
 
