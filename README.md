@@ -24,7 +24,7 @@ Me especializei no conceito dos 5S para preparar os brasileiros contratados para
     </h3>
     
     
-    <h1>  Tecnologia & Desenvolvimento Web.</h1>
+    <h2>  Tecnologia & Desenvolvimento Web.</h2>
 
 <h2 style="color: darkred;">
 HTML, CSS, JS, PHP 
