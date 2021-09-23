@@ -20,8 +20,8 @@ A partir de 1999 começo minha grande aventura pelo oriente, fui embora do pais 
 Após esse período de adaptação comecei a trabalhar com RH departamento pessoal
 Contratando brasileiros para indústria e atuando como intérprete para diversas situações, hospitais, bancos, prefeituras. 
 
-Me especializei no conceito dos 5S para preparar os brasileiros contratados para trabalhar em grandes montadoras com Toyota, Honda, Mazda, Suzuki e Mitsubishi.
-    </h3>
+Me especializei no conceito dos 5S para preparar os brasileiros contratados para trabalhar em grandes montadoras com Toyota, Honda, Mazda, Suzuki e Mitsubishi. </h3>
+<hr/>
     
  <h2>  Tecnologia & Desenvolvimento Web.</h2>
 
