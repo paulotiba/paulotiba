@@ -29,7 +29,7 @@ Me especializei no conceito dos 5S para preparar os brasileiros contratados para
 HTML, CSS, JS, PHP 
 </h2>
 
-<p style="color: darkgoldenrod;">
+<p style="color:  rgb(155, 4, 4);">
 Estou pronto para começar trabalhar com essas tecnologias. <br>
 fiz alguns trabalhos para amigos e estudei muito e agora desejo fazer trabalhos para pequenos negocios para 
 incentivar todos estarem ON. 
